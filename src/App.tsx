@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { BrowserRouter, Link, Outlet, Route, Routes } from 'react-router-dom'
 import './App.css';
 import Home from './Screens/Home';
-import Shop from './Screens/Shop';
+import Shop from './Screens/Shop'
 import Recipes from './Screens/Recipes'
 import Headercomponent from './components/HeaderComponent';
 

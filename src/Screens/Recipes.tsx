@@ -1,3 +1,4 @@
+import RecipesComponent from "../components/RecipesComponent"
 import SearchForm from "../components/SearchForm"
 
 function Recipes() {
@@ -8,35 +9,12 @@ function Recipes() {
 
       <SearchForm />
       <div className="grid grid-cols-2 gap-6">
-        <div className="flex flex-col items-center justify-center">
-          <img src="public/HomeFoodImagejpg.jpg" alt="" className="w-200 h-100" />
-          <h3 className="text-3xl">few</h3>
-        </div>
-
-        <div className="flex flex-col items-center justify-center">
-          <img src="public/HomeFoodImagejpg.jpg" alt="" className="w-200 h-100" />
-          <h3 className="text-3xl">few</h3>
-        </div>
-        
-        <div className="flex flex-col items-center justify-center">
-          <img src="public/HomeFoodImagejpg.jpg" alt="" className="w-200 h-100" />
-          <h3 className="text-3xl">few</h3>
-        </div>
-        
-        <div className="flex flex-col items-center justify-center">
-          <img src="public/HomeFoodImagejpg.jpg" alt="" className="w-200 h-100" />
-          <h3 className="text-3xl">few</h3>
-        </div>
-        
-        <div className="flex flex-col items-center justify-center">
-          <img src="public/HomeFoodImagejpg.jpg" alt="" className="w-200 h-100" />
-          <h3 className="text-3xl">few</h3>
-        </div>
-        
-        <div className="flex flex-col items-center justify-center">
-          <img src="public/HomeFoodImagejpg.jpg" alt="" className="w-200 h-100" />
-          <h3 className="text-3xl">few</h3>
-        </div>
+        <RecipesComponent path="/HomeFoodImagejpg.jpg" title="Burger" />
+        <RecipesComponent path="/HomeFoodImagejpg.jpg" title="Pizza" />
+        <RecipesComponent path="/HomeFoodImagejpg.jpg" title="Pasta" />
+        <RecipesComponent path="/HomeFoodImagejpg.jpg" title="Salad" />
+        <RecipesComponent path="/HomeFoodImagejpg.jpg" title="Soup" />
+        <RecipesComponent path="/HomeFoodImagejpg.jpg" title="Steak" />
 
       </div>
     </aside>
