@@ -8,7 +8,7 @@ function Headercomponent() {
         <nav className="flex gap-6 p-6 items-center">
           <Link to="/shop">Shop</Link>
           <Link to="recipes">Recipes</Link>
-          <img src="../public/basket-svgrepo-com.svg" alt="" className='h-10 w-10' />
+          <img src="/basket-svgrepo-com.svg" alt="" className='h-10 w-10' />
         </nav>
       </header>
     )
