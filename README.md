@@ -1,3 +1,4 @@
+npm install
 npm install tailwindcss @tailwindcss/vite
 npm install flowbite
 npm run dev
