@@ -18,21 +18,10 @@ Starta utvecklingsservern:
 
 ```bash
 npm run dev
-```
 
-## Demo
-
-Vercel-länk:
-https://iln2.vercel.app/
-
-## Kravspecifikation
-
-### Godkänt
-
-* [x] Projektet innehåller och använder minst 6 komponenter.
-* [x] Minst 2 komponenter är statefulla komponenter.
-* [x] React Router har använts för att dynamiskt uppdatera URL:en.
-* [x] Git & GitHub har använts.
-* [x] README.md finns i projektmappen.
-* [ ] Uppgiften lämnas in i tid.
-* [x] Muntlig presentation är genomförd.
+1. Projektet innehåller och använder minst 6 stycken komponenter varav minst 2 stycken är“statefulla"-komponenter.
+2. React Router har använts för att dynamiskt uppdatera URL’en.
+3. Git & GitHub har använts
+4. Projektmappen innehåller en README.md fil - (läs ovan för mer info)
+5. Uppgiften lämnas in i tid!
+6. Muntlig presentation är genomförd
