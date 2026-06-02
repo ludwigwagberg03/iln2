@@ -2,7 +2,7 @@
 
 ## Beskrivning
 
-COOKS är en webbapplikation utvecklad med React och TypeScript som kombinerar receptinspiration med en enkel merch. Användare kan bläddra bland olika recept eller utforska köksredskap / merch som finns till försäljning. Applikationen design är byggd hjälp av Tailwind CSS och React Router används för smidig navigering mellan sidor.
+COOKS är en webbapplikation utvecklad med React och TypeScript som kombinerar receptinspiration med en enkel merch shop. Användare kan bläddra bland olika recept eller utforska köksredskap / merch som finns till försäljning. Applikationen design är byggd hjälp av Tailwind CSS och React Router används för smidig navigering mellan sidor.
 
 ## Installation
 
